@@ -2,6 +2,7 @@ import streamlit as st
 import pickle as pk
 import numpy as np
 from PIL import Image
+import sklearn
 
 users_data = []
 
